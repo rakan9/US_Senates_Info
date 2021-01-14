@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">USenatesInfo</string>
+    <string name="senatorName">name</string>
+    <string name="Role">Role</string>
+    <string name="phone">phone</string>
+    <string name="address">Address</string>
+    <string name="office">office</string>
+    <string name="birthday">birthday</string>
+    <string name="end_date">End Date</string>
+    <string name="gender">Gender</string>
+    <string name="sortname">sortname</string>
+    <string name="website">website</string>
+</resources>
